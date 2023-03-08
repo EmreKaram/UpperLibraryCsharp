@@ -6,3 +6,11 @@ C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\OOP\obj\Debug\OOP
 C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
 C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\OOP\obj\Debug\OOP.exe
 C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\OOP\obj\Debug\OOP.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\bin\Debug\OOP.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\bin\Debug\OOP.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\bin\Debug\OOP.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\obj\Debug\OOP.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\OOP\obj\Debug\OOP.pdb

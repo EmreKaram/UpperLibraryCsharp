@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e608cbec-820e-4446-bb15-da168ea8651b": {
+      "ProjectGuid": "e608cbec-820e-4446-bb15-da168ea8651b",
+      "DisplayName": "OOP",
+      "ColorIndex": 0
+    },
+    "bda6dd7e-aea5-43fa-83cd-c99ab0694f11": {
+      "ProjectGuid": "bda6dd7e-aea5-43fa-83cd-c99ab0694f11",
+      "DisplayName": "Constructor",
+      "ColorIndex": 1
+    },
+    "eff7ddfa-1623-4882-8422-55156e3cbb1d": {
+      "ProjectGuid": "eff7ddfa-1623-4882-8422-55156e3cbb1d",
+      "DisplayName": "Method_Overloading",
+      "ColorIndex": 2
+    },
+    "698f58b8-d4e4-4c27-afdd-e396b1e91814": {
+      "ProjectGuid": "698f58b8-d4e4-4c27-afdd-e396b1e91814",
+      "DisplayName": "Enum_Ornekleri",
+      "ColorIndex": 3
+    },
+    "810dfae3-785a-4671-a643-636b44ffaef1": {
+      "ProjectGuid": "810dfae3-785a-4671-a643-636b44ffaef1",
+      "DisplayName": "Encapsullation",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
