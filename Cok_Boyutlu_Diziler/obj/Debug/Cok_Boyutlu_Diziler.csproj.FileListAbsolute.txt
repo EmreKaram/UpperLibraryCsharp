@@ -1,0 +1,8 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\bin\Debug\Cok_Boyutlu_Diziler.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\bin\Debug\Cok_Boyutlu_Diziler.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\bin\Debug\Cok_Boyutlu_Diziler.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\obj\Debug\Cok_Boyutlu_Diziler.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\obj\Debug\Cok_Boyutlu_Diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\obj\Debug\Cok_Boyutlu_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\obj\Debug\Cok_Boyutlu_Diziler.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Cok_Boyutlu_Diziler\obj\Debug\Cok_Boyutlu_Diziler.pdb

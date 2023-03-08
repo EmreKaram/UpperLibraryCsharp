@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Params\bin\Debug\Params.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Params\bin\Debug\Params.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Params\bin\Debug\Params.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Params\obj\Debug\Params.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Params\obj\Debug\Params.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Params\obj\Debug\Params.pdb

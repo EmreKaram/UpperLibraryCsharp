@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Listeler\bin\Debug\Listeler.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Listeler\bin\Debug\Listeler.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Listeler\bin\Debug\Listeler.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Listeler\obj\Debug\Listeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Listeler\obj\Debug\Listeler.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Listeler\obj\Debug\Listeler.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\AdavancedLevelOfCsharp\Listeler\obj\Debug\Listeler.pdb
