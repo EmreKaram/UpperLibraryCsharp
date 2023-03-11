@@ -1,0 +1,8 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Inheritance\obj\Debug\Inheritance.pdb

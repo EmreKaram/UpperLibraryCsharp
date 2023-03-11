@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Var_Object_Dynamic", "Var_Object_Dynamics\Var_Object_Dynamic.csproj", "{989CC27E-0C9F-43C4-B4FA-F78DA87D8397}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLR_IronPython", "DLR_IronPython\DLR_IronPython.csproj", "{BA68A4CA-0445-40CA-9EA7-957471BB5B76}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cok_Boyutlu_Diziler", "Cok_Boyutlu_Diziler\Cok_Boyutlu_Diziler.csproj", "{6FFBB513-0D22-4884-ABD2-D14740AEB5E7}"
@@ -27,16 +25,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum_Ornekleri", "Enum\Enum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsullation", "Encapsullation\Encapsullation.csproj", "{810DFAE3-785A-4671-A643-636B44FFAEF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{21E30BAE-AD73-45E6-BFA9-B467C4936F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{989CC27E-0C9F-43C4-B4FA-F78DA87D8397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{989CC27E-0C9F-43C4-B4FA-F78DA87D8397}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{989CC27E-0C9F-43C4-B4FA-F78DA87D8397}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{989CC27E-0C9F-43C4-B4FA-F78DA87D8397}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BA68A4CA-0445-40CA-9EA7-957471BB5B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BA68A4CA-0445-40CA-9EA7-957471BB5B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA68A4CA-0445-40CA-9EA7-957471BB5B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -81,6 +77,10 @@ Global
 		{810DFAE3-785A-4671-A643-636B44FFAEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{810DFAE3-785A-4671-A643-636B44FFAEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810DFAE3-785A-4671-A643-636B44FFAEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E30BAE-AD73-45E6-BFA9-B467C4936F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E30BAE-AD73-45E6-BFA9-B467C4936F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E30BAE-AD73-45E6-BFA9-B467C4936F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E30BAE-AD73-45E6-BFA9-B467C4936F64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
