@@ -1,8 +1,0 @@
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\bin\Debug\Var_Object_Dynamics.exe.config
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\bin\Debug\Var_Object_Dynamics.exe
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\bin\Debug\Var_Object_Dynamics.pdb
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\obj\Debug\Var_Object_Dynamic.csproj.AssemblyReference.cache
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\obj\Debug\Var_Object_Dynamic.csproj.SuggestedBindingRedirects.cache
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\obj\Debug\Var_Object_Dynamic.csproj.CoreCompileInputs.cache
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\obj\Debug\Var_Object_Dynamics.exe
-C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Var_Object_Dynamics\obj\Debug\Var_Object_Dynamics.pdb
