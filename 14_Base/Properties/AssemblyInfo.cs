@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ChatGptUsingIronPython")]
+[assembly: AssemblyTitle("14_Base")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ChatGptUsingIronPython")]
+[assembly: AssemblyProduct("14_Base")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ce6c77d0-11f0-46ff-843c-5a3eb685331d")]
+[assembly: Guid("05b520c6-5056-4827-8361-318adaec0723")]
 
 // Version information for an assembly consists of the following four values:
 //

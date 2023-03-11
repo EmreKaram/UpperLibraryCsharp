@@ -3,29 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLR_IronPython", "DLR_IronPython\DLR_IronPython.csproj", "{BA68A4CA-0445-40CA-9EA7-957471BB5B76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DLR_IronPython", "DLR_IronPython\02_DLR_IronPython.csproj", "{BA68A4CA-0445-40CA-9EA7-957471BB5B76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cok_Boyutlu_Diziler", "Cok_Boyutlu_Diziler\Cok_Boyutlu_Diziler.csproj", "{6FFBB513-0D22-4884-ABD2-D14740AEB5E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Cok_Boyutlu_Diziler", "Cok_Boyutlu_Diziler\03_Cok_Boyutlu_Diziler.csproj", "{6FFBB513-0D22-4884-ABD2-D14740AEB5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listeler", "Listeler\Listeler.csproj", "{C7C8FA07-FAA1-4053-BBD0-A0E91E7E98DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Listeler", "Listeler\04_Listeler.csproj", "{C7C8FA07-FAA1-4053-BBD0-A0E91E7E98DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{AF133777-99FC-4836-87BD-97E8AC710F8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Params", "Params\05_Params.csproj", "{AF133777-99FC-4836-87BD-97E8AC710F8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Const", "Const\Const.csproj", "{199428C9-07DE-4013-8E8C-B57A29615555}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Const", "Const\06_Const.csproj", "{199428C9-07DE-4013-8E8C-B57A29615555}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{E608CBEC-820E-4446-BB15-DA168EA8651B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_OOP", "OOP\07_OOP.csproj", "{E608CBEC-820E-4446-BB15-DA168EA8651B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access_Modifiers", "Access_Modifiers\Access_Modifiers.csproj", "{5936DC9E-A5FD-4A60-9ACC-60F0DDC38909}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Access_Modifiers", "Access_Modifiers\08_Access_Modifiers.csproj", "{5936DC9E-A5FD-4A60-9ACC-60F0DDC38909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{BDA6DD7E-AEA5-43FA-83CD-C99AB0694F11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Constructor", "Constructor\09_Constructor.csproj", "{BDA6DD7E-AEA5-43FA-83CD-C99AB0694F11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{EFF7DDFA-1623-4882-8422-55156E3CBB1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Method_Overloading", "Method_Overloading\10_Method_Overloading.csproj", "{EFF7DDFA-1623-4882-8422-55156E3CBB1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum_Ornekleri", "Enum\Enum_Ornekleri.csproj", "{698F58B8-D4E4-4C27-AFDD-E396B1E91814}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Enum", "Enum\11_Enum.csproj", "{698F58B8-D4E4-4C27-AFDD-E396B1E91814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsullation", "Encapsullation\Encapsullation.csproj", "{810DFAE3-785A-4671-A643-636B44FFAEF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Encapsullation", "Encapsullation\12_Encapsullation.csproj", "{810DFAE3-785A-4671-A643-636B44FFAEF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{21E30BAE-AD73-45E6-BFA9-B467C4936F64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Inheritance", "Inheritance\13_Inheritance.csproj", "{21E30BAE-AD73-45E6-BFA9-B467C4936F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Base", "14_Base\14_Base.csproj", "{05B520C6-5056-4827-8361-318ADAEC0723}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{21E30BAE-AD73-45E6-BFA9-B467C4936F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21E30BAE-AD73-45E6-BFA9-B467C4936F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21E30BAE-AD73-45E6-BFA9-B467C4936F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B520C6-5056-4827-8361-318ADAEC0723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B520C6-5056-4827-8361-318ADAEC0723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B520C6-5056-4827-8361-318ADAEC0723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B520C6-5056-4827-8361-318ADAEC0723}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
