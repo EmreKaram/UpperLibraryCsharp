@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Value_Reference_Types\bin\Debug\Value_Reference_Types.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Value_Reference_Types\bin\Debug\Value_Reference_Types.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Value_Reference_Types\bin\Debug\Value_Reference_Types.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Value_Reference_Types\obj\Debug\18_Value_Reference_Types.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Value_Reference_Types\obj\Debug\18_Value_Reference_Types.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Value_Reference_Types\obj\Debug\Value_Reference_Types.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Value_Reference_Types\obj\Debug\Value_Reference_Types.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Readonly\bin\Debug\Readonly.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Readonly\bin\Debug\Readonly.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Readonly\bin\Debug\Readonly.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Readonly\obj\Debug\17_Readonly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Readonly\obj\Debug\17_Readonly.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Readonly\obj\Debug\Readonly.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Readonly\obj\Debug\Readonly.pdb

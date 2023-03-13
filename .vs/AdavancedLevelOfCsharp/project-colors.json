@@ -55,7 +55,47 @@
       "ProjectGuid": "199428c9-07de-4013-8e8c-b57a29615555",
       "DisplayName": "06_Const",
       "ColorIndex": 9
+    },
+    "ba68a4ca-0445-40ca-9ea7-957471bb5b76": {
+      "ProjectGuid": "ba68a4ca-0445-40ca-9ea7-957471bb5b76",
+      "DisplayName": "02_DLR_IronPython",
+      "ColorIndex": 10
+    },
+    "6ffbb513-0d22-4884-abd2-d14740aeb5e7": {
+      "ProjectGuid": "6ffbb513-0d22-4884-abd2-d14740aeb5e7",
+      "DisplayName": "03_Cok_Boyutlu_Diziler",
+      "ColorIndex": 11
+    },
+    "5936dc9e-a5fd-4a60-9acc-60f0ddc38909": {
+      "ProjectGuid": "5936dc9e-a5fd-4a60-9acc-60f0ddc38909",
+      "DisplayName": "08_Access_Modifiers",
+      "ColorIndex": 12
+    },
+    "393ff8ec-fc79-478f-b52f-392b1461a9c0": {
+      "ProjectGuid": "393ff8ec-fc79-478f-b52f-392b1461a9c0",
+      "DisplayName": "15_Protected_Protected_Internal",
+      "ColorIndex": 13
+    },
+    "8f4fd756-942b-4fd7-b38e-80c2d7770f9b": {
+      "ProjectGuid": "8f4fd756-942b-4fd7-b38e-80c2d7770f9b",
+      "DisplayName": "16_This",
+      "ColorIndex": 14
+    },
+    "839ad96c-3a76-4d6c-9f9d-014978235697": {
+      "ProjectGuid": "839ad96c-3a76-4d6c-9f9d-014978235697",
+      "DisplayName": "17_Readonly",
+      "ColorIndex": 15
+    },
+    "ed41c841-4651-43dc-b2d5-1762591f8d3f": {
+      "ProjectGuid": "ed41c841-4651-43dc-b2d5-1762591f8d3f",
+      "DisplayName": "18_Value_Reference_Types",
+      "ColorIndex": 0
+    },
+    "822144b9-f69e-4b75-8dc7-26d90efe53dd": {
+      "ProjectGuid": "822144b9-f69e-4b75-8dc7-26d90efe53dd",
+      "DisplayName": "19_Ref_Out",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 2
 }

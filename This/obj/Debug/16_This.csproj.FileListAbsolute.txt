@@ -1,0 +1,8 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\bin\Debug\This.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\bin\Debug\This.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\bin\Debug\This.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\obj\Debug\16_This.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\obj\Debug\16_This.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\obj\Debug\16_This.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\obj\Debug\This.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\This\obj\Debug\This.pdb
