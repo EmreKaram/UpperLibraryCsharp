@@ -1,0 +1,8 @@
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\bin\Debug\Ref_Out.exe.config
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\bin\Debug\Ref_Out.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\bin\Debug\Ref_Out.pdb
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\obj\Debug\19_Ref_Out.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\obj\Debug\19_Ref_Out.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\obj\Debug\19_Ref_Out.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\obj\Debug\Ref_Out.exe
+C:\Users\Emre\Desktop\Code\.net Edu All\.net Edu (C# Upper)\UpperLibraryCsharp\Ref_Out\obj\Debug\Ref_Out.pdb
